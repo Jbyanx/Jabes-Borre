@@ -109,6 +109,7 @@ a:hover{
     .contenedor{
         width: 100%;
         display: flex;
+        padding-bottom:10px;
     }
     .contenedor a {
         width: 33%;
