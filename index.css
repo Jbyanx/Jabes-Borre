@@ -102,6 +102,9 @@ a:hover{
 .bottom {
     margin-bottom: 10px;
 }
+.contenedor {
+    padding-bottom:10px;
+}
 @media (min-width:500px) {
     #portafolio {
         width: 100%;
@@ -109,7 +112,6 @@ a:hover{
     .contenedor{
         width: 100%;
         display: flex;
-        padding-bottom:10px;
     }
     .contenedor a {
         width: 33%;
